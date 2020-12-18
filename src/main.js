@@ -1,6 +1,6 @@
-import App from './App.svelte'
+import HomePage from './pages/HomePage.svelte'
 
-const app = new App({
+const app = new HomePage({
   target: document.body,
   props: {},
 })

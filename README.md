@@ -1,6 +1,6 @@
-# Svelte Scoreboard
+# Svelte Poll
 
-> Simple polls app, showcasing Svelte.js
+> Simple poll app, showcasing Svelte.js
 
 ## Get started
 
